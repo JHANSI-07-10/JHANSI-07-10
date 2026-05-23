@@ -15,14 +15,13 @@
 jhansi = {
     "name"       : "Jhansi Lakshmi Mandugula",
     "education"  : "B.Tech CS (Data Science) — G. Pullaiah Engineering College",
-    "gpa"        : "8.5 / 10",
-    "location"   : "Andhra Pradesh, India 🇮🇳",
+    "gpa"        : "8.6 / 10",
+    "location"   : "Kurnool ,Andhra Pradesh, India",
     "internship" : "Deep Learning Intern @ IIITDM Kurnool (Jan–Apr 2026)",
     "research"   : "Glaucoma Detection · Skin Cancer Classification",
-    "gate_2026"  : "Qualified ✅ (Score: 250)",
+    "gate_2026"  : "Qualified ✅ CS - (Score: 250)",
     "cert"       : "Oracle OCI Generative AI Professional 2025",
     "seeking"    : "Full-time roles in AI/ML · Data Science · Data Analytics",
-    "open_to"    : ["Healthcare AI", "Computer Vision", "NLP", "BI & Analytics"]
 }
 ```
 

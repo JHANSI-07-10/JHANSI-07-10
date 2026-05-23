@@ -86,7 +86,6 @@ jhansi = {
 | 📊 | Deloitte Data Analytics Job Simulation (Forage) | 2025 |
 | 💻 | HackerRank SQL (Basic) Certification | 2024 |
 | 🇬🇧 | Cambridge Lingua B1 English Certification | 2023 |
-| 💯 | SSC — 100% (Sri Chaitanya Techno School) | 2020 |
 
 </div>
 
